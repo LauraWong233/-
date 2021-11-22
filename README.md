@@ -7,5 +7,5 @@
 |2021/11/11|Zenlink|返还1056U|楠2000U|no|yes|2人150个zenlink未分配，剩余一点movr手续费|
 |2021/11/13|RACA 开蛋|50%|2个人73wRACA|no|yes|隆sr已返还，楠5个蛋sr份额未收回|
 |2021/11/19|RACA 开蛋||每人50w RACA||no||
-|2021/11/21|Cryptomines||4000U||no||
+|2021/11/21|Cryptomines||4000U||no|U已结清，只需要分成etl|
 
